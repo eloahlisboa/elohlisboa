@@ -1,6 +1,6 @@
 ### Boas vindas ao meu perfil 🩷
 
-Meu nome é Eloah Lisboa
+Meu nome é Eloah Lisboa 
 
 - Estou estudando na [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem JavaScript
